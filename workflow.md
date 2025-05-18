@@ -2,4 +2,6 @@
 
 ## **installed dependencies**
 
-<pre> ``` your code here more code here ``` </pre>
+<pre> conda install rdkit matplotlib scikit-learn pandas numpy matplotlib </pre>
+<pre> pip install tensorflow >= 1.14.0 keras </pre>
+
