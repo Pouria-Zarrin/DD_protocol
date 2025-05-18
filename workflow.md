@@ -1,5 +1,5 @@
-# ** workflow notes for running dd protocol **
+# **workflow notes for running dd protocol**
 
-## ** installed dependencies
+## **installed dependencies**
 
-<codecell markdown> conda install rdkit <codecell>git
+<pre> ``` your code here more code here ``` </pre>
